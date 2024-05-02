@@ -5,7 +5,6 @@ import sqlite3
 import json
 import zipfile
 #From ACS Environment
-from bs4 import BeautifulSoup
 from lxml import etree
 from datetime import datetime
 
